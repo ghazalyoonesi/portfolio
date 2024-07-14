@@ -16,8 +16,8 @@ font-family: 'Rufina', serif;
 3.  Welcome-hero
 4.  Model-search
 5.  Service
-6.  New-cars
-7.  Featured-cars
+6.  New-designs
+7.  Featured-designs
 8.  Client-say
 9.  Brand
 10. Blog
@@ -371,30 +371,30 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 
 
 /*-------------------------------------
-        6. New-cars
+        6. New-designs
 --------------------------------------*/
-.new-cars{
+.new-designs{
     background: #f8f9fb;
     padding:112px 0 120px;
 }
-.new-cars-content{padding-top:96px;}
-/*.new-cars-txt*/
-.new-cars-txt {margin-left: 29px;margin-bottom: 30px;}
-.new-cars-txt h2 a {
+.new-designs-content{padding-top:96px;}
+/*.new-designs-txt*/
+.new-designs-txt {margin-left: 29px;margin-bottom: 30px;}
+.new-designs-txt h2 a {
     font-size:  30px;
     font-weight:  500;
     margin-bottom: 26px;
 }
-.new-cars-txt h2 a span {text-transform:  uppercase;}
-.new-cars-para2 {margin-top: 30px;}
-.welcome-btn.new-cars-btn {
+.new-designs-txt h2 a span {text-transform:  uppercase;}
+.new-designs-para2 {margin-top: 30px;}
+.welcome-btn.new-designs-btn {
     width: 176px;
     margin-top: 32px;
 }
-/*.new-cars-txt*/
+/*.new-designs-txt*/
 
 /*.owl-dots */
-.new-cars .owl-theme .owl-dots .owl-dot span {
+.new-designs .owl-theme .owl-dots .owl-dot span {
     width: 8px;
     height: 8px;
     margin: 0px 4px;
@@ -402,14 +402,14 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     border: 1px solid #6a7781;
     border-radius: 50%;
 }
-.new-cars .owl-theme .owl-dots .owl-dot.active span,.new-cars .owl-theme .owl-dots .owl-dot:hover span {background: #6a7781;}
-.new-cars .owl-theme .owl-nav.disabled+.owl-dots {margin-top: 62px;}
+.new-designs .owl-theme .owl-dots .owl-dot.active span,.new-designs .owl-theme .owl-dots .owl-dot:hover span {background: #6a7781;}
+.new-designs .owl-theme .owl-nav.disabled+.owl-dots {margin-top: 62px;}
 /*.owl-dots */
 
 /*-------------------------------------
-        7. Featured-cars
+        7. Featured-designs
 --------------------------------------*/
-.featured-cars{
+.featured-designs{
     padding:112px 0 120px;
 }
 .featured-designs-content{padding-top:96px;}
